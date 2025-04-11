@@ -11924,6 +11924,28 @@ textarea.form-control-lg {
   border: none;
 }
 
+.diddiv {
+  border: none;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  width: 27vw;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.dis {
+  display: flex;
+  align-items: center;
+}
+
+.dis img {
+  border: none;
+  border-radius: 30px;
+}
+
+.ediv {
+  display: flex;
+  flex-direction: column;
+}
+
 .links {
   display: flex;
   align-items: center;
@@ -11935,7 +11957,11 @@ textarea.form-control-lg {
   text-decoration: none;
 }
 
-.divkbira {
+.divkbira a {
+  color: grey;
+}
+
+.divkbira img {
   padding-top: 80px;
 }
 
@@ -11943,8 +11969,6 @@ textarea.form-control-lg {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  justify-content-padding-top: 80px;
-  justify-content-background-color: red;
 }
 
 .imge {
@@ -11963,6 +11987,26 @@ textarea.form-control-lg {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+}
+
+.diiif {
+  display: flex;
+  gap: 30px;
+  padding-top: 80px;
+}
+
+.dovvv {
+  display: flex;
+  gap: 30px;
+  padding-top: 80px;
+}
+
+.diddiv {
+  padding-right: 20px;
+}
+
+.blogf {
+  padding-left: 50px;
 }
 
 /*# sourceMappingURL=app.css.map */
