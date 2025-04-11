@@ -12009,4 +12009,154 @@ textarea.form-control-lg {
   padding-left: 50px;
 }
 
+.dark-bleu {
+  background-color: #1e4356;
+  height: 370px;
+}
+
+.contact {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 170px;
+}
+
+.link {
+  color: #548ca8;
+  text-decoration: none;
+}
+
+.prnt-white {
+  background-color: #eaf3f8;
+  width: 45rem;
+  height: 270px;
+}
+
+.local {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 70px;
+  gap: 10px;
+}
+
+.icone {
+  font-size: 30px;
+  background-color: white;
+  border-radius: 100%;
+  padding: 1%;
+}
+
+.tele-mail {
+  display: flex;
+  gap: 20px;
+}
+
+.prnt-tele {
+  background-color: #eaf3f8;
+  width: 22rem;
+  height: 250px;
+  margin-top: 20px;
+}
+
+.call {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 70px;
+  gap: 10px;
+}
+
+.icones {
+  font-size: 30px;
+  background-color: white;
+  border-radius: 100%;
+  padding: 2%;
+}
+
+.prnt-mail {
+  background-color: #eaf3f8;
+  width: 22rem;
+  height: 250px;
+  margin-top: 20px;
+}
+
+.mail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 70px;
+  gap: 10px;
+}
+
+.iconess {
+  font-size: 30px;
+  background-color: white;
+  border-radius: 100%;
+  padding: 2%;
+}
+
+.form-big {
+  background-color: #eaf3f8;
+  width: 50rem;
+  height: 540px;
+  gap: 100px;
+}
+
+.form {
+  display: flex;
+  gap: 30px;
+  margin-top: 100px;
+}
+
+.name-mail {
+  width: 19rem;
+  height: 40px;
+}
+
+.inpt-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+}
+
+.subjct {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.inpt-2 {
+  width: 43rem;
+  height: 40px;
+}
+
+.msg {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.inpt-3 {
+  width: 43rem;
+  height: 200px;
+}
+
+.direction-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+}
+
+.map {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
 /*# sourceMappingURL=app.css.map */
